@@ -2,7 +2,8 @@
 
 ![badge.png](badge.png)
 
-If you want a badge like this, you can get one by:
+If you want a <tooltip term="badge">badge</tooltip> like this, you can get one by:
+
 - Inviting another user to use XMOJ-Script.
 - Donating to the project.
 - Contributing to the project.
