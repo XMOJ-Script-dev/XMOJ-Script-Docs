@@ -1,0 +1,1 @@
+# Welcome to the Official XMOJ-Script Documentation!

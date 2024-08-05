@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="xd"
+                 name="XMOJ-Script Documentation"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="Rating-System.md"/>
+    <toc-element topic="Tag-Badge.md"/>
+    <toc-element topic="Image-hosting.md"/>
+    <toc-element topic="Contributing.md"/>
+</instance-profile>
