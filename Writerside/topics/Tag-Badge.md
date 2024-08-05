@@ -9,4 +9,4 @@ If you want a badge like this, you can get one by:
 
 If you believe you deserve a badge, please contact an administrator.
 
-Edit your badge by going to https://www.xmoj.tech/modifypage.php.
+Edit your badge by going [here](https://www.xmoj.tech/modifypage.php).
