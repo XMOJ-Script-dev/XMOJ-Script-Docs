@@ -1,3 +1,12 @@
 # Tag/Badge
 
-See https://www.xmoj.tech/discuss3/thread.php?tid=223
+![badge.png](badge.png)
+
+If you want a badge like this, you can get one by:
+- Inviting another user to use XMOJ-Script.
+- Donating to the project.
+- Contributing to the project.
+
+If you believe you deserve a badge, please contact an administrator.
+
+Edit your badge by going to https://www.xmoj.tech/modifypage.php.
